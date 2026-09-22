@@ -1,0 +1,32 @@
+<tbody class="divide-y divide-gray-200">
+            <tr class="hover:bg-gray-50">
+              <td class="p-3">1</td>
+              <td class="p-3 font-medium">Meera Tessana</td>
+              <td class="p-3">Prabu Team</td>
+              <td class="p-3">Web Development</td>
+              <td class="p-3 text-center">
+                <span class="bg-green-100 text-green-700 px-2 py-0.5 rounded text-xs font-semibold">Active</span>
+              </td>
+            </tr>
+            <tr class="hover:bg-gray-50">
+              <td class="p-3">2</td>
+              <td class="p-3 font-medium">Sadib Satya</td>
+              <td class="p-3">Cyber Squad</td>
+              <td class="p-3">Network & Security</td>
+              <td class="p-3 text-center">
+                <span class="bg-green-100 text-green-700 px-2 py-0.5 rounded text-xs font-semibold">Active</span>
+              </td>
+            </tr>
+            <tr class="hover:bg-gray-50">
+              <td class="p-3">3</td>
+              <td class="p-3 font-medium">Kaleo Brams</td>
+              <td class="p-3">Tech Titans</td>
+              <td class="p-3">Mobile Development</td>
+              <td class="p-3 text-center">
+                <span class="bg-yellow-100 text-yellow-700 px-2 py-0.5 rounded text-xs font-semibold">Pending</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
